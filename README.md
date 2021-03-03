@@ -5,9 +5,9 @@ adquiridos a lo largo del curso académico.
 
 ## Integrantes del Grupo
 
-**Nombre**: Enrique García Velasco. **UVUS**: enrgarvel **Correo electrónico**: enrgarvel@alum.us.es
+**Nombre**: Enrique García Velasco
 
-**Nombre:** Juan Diego Villalobos Quirós. **UVUS:** juavilqui **correo electrónico:** juavilqui@alum.us.es
+**Nombre:** Juan Diego Villalobos Quirós
 
 ## Temática elegida.
 
