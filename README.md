@@ -23,8 +23,6 @@ planteamientos de diferentes juegos nos decidimos por el clásico *Tetris*, pens
 fácil de implementar y que a la misma vez nos permitiría cumplir e impclementar todos los requisitos necesarios en el
 proyecto.
 
-![Hello World!](C:\Users\Usuario\Desktop\uno.jpg)
-
 ## Estructura
 
 Nuestro proyecto cuenta con varios archivos diferentes, cada uno de estos archivos contienen funciones con una finalidad
