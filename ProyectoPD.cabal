@@ -11,7 +11,7 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/ProyectoPD#readme>
 homepage:       https://github.com/#readme
 bug-reports:    https://github.com//issues
-author:         Enrique García Velasco, Juan Diego Villalobos Quirós
+author:         Enrique García Velasco & Juan Diego Villalobos Quirós
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
