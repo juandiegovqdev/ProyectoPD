@@ -29,20 +29,20 @@ Nuestro proyecto cuenta con varios archivos diferentes, cada uno de estos archiv
 diferentes, por ello vamos a explicar archivo por archivo que podemos encontrar en su interior y cuál seria su
 funcionalidad.
 
-#### Bloques.hs
+### Bloques.hs
 
 En este archivo podemos encontrar diferentes funciones, todas ellas relacionadas con la creación de los bloques de
 juego. Una de las funciones más importantes de este archivo es la encargada de generar nuevos bloques con sus
 coordenadas y un color. También contamos con las funciones de rotar Izq y Der, y con dos funciones que nos devuelven el
 color y las coordenadas de un bloque.
 
-#### Config.hs
+### Config.hs
 
 En este archivo es donde se define y se tiene la información del juegos como puede ser la puntuación, el tiempo, la
 posición del bloque o si el juego ha finalizado entre otros. este archivo cuenta con una configuración inicial y final (
 gameOver).
 
-#### Controles.hs
+### Controles.hs
 
 Este archivo es bastante importante ya que contamos con bastantes funciones en su interior, como su nombre indica todas
 las funciones que encontramos en él están relacionadas con el manejo de los bloques durante la partida. En primer lugar
@@ -52,7 +52,7 @@ velocidad. A continuación tenemos las funciones de rotación, asignadas a las t
 antihorario, y la tecla 'd' para la rotación en el sentido de la agujas del reloj. Además de todas estas contamos con
 una función que comprueba si nos chocamos con algún borde/limite.
 
-#### GenerarTablero.hs
+### GenerarTablero.hs
 
 Tenemos unas primeras funciones que nos sirven para elegir el número de celdas, color del juego, altura del tablero o
 los márgenes. Posteriormente encontramos multitud de funciones que se encargan del apartado gráfico del juego, nos
@@ -60,14 +60,14 @@ devuelven las coordenadas de cada celda, convierte las coordenadas a las coorden
 renderiza las celdas o mueve pone a los bloques como celdas temporales del tablero, todas estas configuraciones las
 conseguimos pasar a una única imagen mediante una última función.
 
-#### Logica.hs
+### Logica.hs
 
 En este archivo tenemos todas la funciones relacionadas con la lógica del juego en sí, empezando por algo tan básico
 como la velocidad del bloque, la actualización de la configuración, la eliminación de las filas que se van completando,
 las colisiones entre bloques, colisiones con los bordes del tablero, las coordenadas de dichas colisiones o determinar
 cuando el juego ha finalizado.
 
-#### TableroDeJuego.hs
+### TableroDeJuego.hs
 
 Definimos un tablero vacío, el color de las celdas y las filas.
 
